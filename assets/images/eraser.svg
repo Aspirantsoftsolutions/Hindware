@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20.172" viewBox="0 0 20 20.172">
+  <g id="eraser-tool" transform="translate(-1.578 -0.001)">
+    <g id="Group_81" data-name="Group 81" transform="translate(1.578 0.001)">
+      <path id="Path_38" data-name="Path 38" d="M71.406,8.056,63.537.188A.743.743,0,0,0,62.491.25L54.468,8.273l8.853,8.854L71.344,9.1A.744.744,0,0,0,71.406,8.056Z" transform="translate(-51.593 -0.001)" fill="#707070"/>
+      <path id="Path_39" data-name="Path 39" d="M1.827,167.67a.744.744,0,0,0-.062,1.046l7.868,7.869a.626.626,0,0,0,.336.162.778.778,0,0,0,.514.2h9.51a.784.784,0,0,0,0-1.568H11.829l.739-.739-8.853-8.853Z" transform="translate(-1.578 -156.772)" fill="#707070"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "496175357234",
+    "project_id": "somany-home-innovation-limited",
+    "storage_bucket": "somany-home-innovation-limited.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496175357234:android:e0ca28be22652230430b2b",
+        "android_client_info": {
+          "package_name": "com.shil.shil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496175357234-gv2etuou11fb7q0b3e6md9oigk7aoesc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shil.shil",
+            "certificate_hash": "17cd38bd221be829b2d66f12db05f2ea7809d4b8"
+          }
+        },
+        {
+          "client_id": "496175357234-j739cu5anrtjarg8v4tlugd92ib6ipsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCncdKXa46KyI7jzgsi3aIlyaxQon_lWY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496175357234-j739cu5anrtjarg8v4tlugd92ib6ipsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
